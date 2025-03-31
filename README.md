@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Ainda é apenas um página estudantil bem simples, então, vai ser apenas um _boas vindas_ por agora
+Ainda é apenas um página estudantil bem simples... então, vai ser apenas um _boas vindas_ por agora.
 
 <!--
 **gladstone-ac/gladstone-ac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
